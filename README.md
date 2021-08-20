@@ -4,10 +4,10 @@
 
 <p align="center">
   🎓I majored in business administration at CHUNG-ANG University.
-  <br>
+  <br><br>
   I studied at 42SEOUL
   <br><img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>
-  <br>
+  <br><br>
   📕 I’m currently learning Machine Learning
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
