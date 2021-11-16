@@ -31,5 +31,3 @@
 <p align="center">
 <a href="mailto:sungjune.kr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@kkiyou" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj2259)](https://solved.ac/lsj2259/)
