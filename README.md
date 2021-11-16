@@ -32,5 +32,3 @@
 <a href="mailto:sungjune.kr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@kkiyou" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsj2259" height="165">
